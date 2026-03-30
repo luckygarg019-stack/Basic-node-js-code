@@ -18,8 +18,6 @@ fs.appendFile("Sample.txt", "\n North India's Best College", (err)=>{
 //      console.log("file deleted sucessfully");
 // }) 
 
-// crud operation = create read update delete
-// try ke andhr true condtion or catch je andhr false cond
 
 const fs = require('node:fs');
 const constant = 'Some content!';
